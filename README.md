@@ -36,5 +36,3 @@ Labs in this section focus on developing mobile applications using the Flutter f
 3. [**Lab-3: Loop Statement**](https://github.com/himanshuparmar21/Sem-4/tree/main/Flutter/Lab-2)
 4. [**Lab-4: Function(Method)**](https://github.com/himanshuparmar21/Sem-4/tree/main/Flutter/Lab-2)
 5. [**Lab-5: List & Map Method**](https://github.com/himanshuparmar21/Sem-4/tree/main/Flutter/Lab-2)
-
-6. 
